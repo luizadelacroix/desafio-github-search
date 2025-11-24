@@ -1,7 +1,22 @@
-# desafio-github-search
-Criando um App Android para compartilhar seu portfolio de projeto 
+# 📱 DIO Android Apps Ranking
 
-Criar um App Android simples que armazene um usuário do GitHub (informado em uma tela inicial) e liste todos os seus repositórios públicos. Garanta que o nome do usuário seja salvo e o App tenha a capacidade de redefinir essa informação.
+Projeto prático desenvolvido durante o conteúdo da **DIO** para estudo de **Programação Orientada a Objetos (POO) em Kotlin**.  
+O objetivo é ler uma lista de aplicativos com suas notas, organizar como objetos e identificar automaticamente o app com a maior nota.
 
-![image](https://user-images.githubusercontent.com/5827265/188474294-4472bcc0-24ee-4ccd-80a8-7cee0372e7fa.png)
+---
 
+## 🚀 Funcionalidades
+
+- Representação de cada app como objeto (`App`)  
+- Comparação de notas para determinar o melhor app  
+- Empates resolvidos mantendo o primeiro da lista  
+- Entrada e saída via console  
+
+---
+
+## 💻 Como executar
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/seu-usuario/dio-android-apps-ranking.git
